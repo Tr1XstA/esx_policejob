@@ -24,22 +24,6 @@ ESX Status Support
 
 esx_status
 
-# Installation
-
-import esx_policejob.sql in your database
-add the esx_policejob folder into your resources
-add the PoliceExterior folder into your resources
-add the PoliceFordShelby folder into your resources 
-add the PoliceMaserati folder into your resources
-
-Add this to your server.cfg
-
-start esx_policejob
-start PoliceExterior
-start PoliceFordShelby
-start PoliceMaserati
-
-Then Have fun :)
 
 # Legal
 
