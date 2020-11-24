@@ -24,4 +24,4 @@ ESX Status Support
 
 esx_status
 
-#Legal
+# Legal
