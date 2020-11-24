@@ -26,13 +26,14 @@ esx_status
 
 # Installation
 
-1. import esx_policejob.sql in your database
-2.add the esx_policejob folder into your resources
-3.add the PoliceExterior folder into your resources
-4.add the PoliceFordShelby folder into your resources 
-5.add the PoliceMaserati folder into your resources
+import esx_policejob.sql in your database
+add the esx_policejob folder into your resources
+add the PoliceExterior folder into your resources
+add the PoliceFordShelby folder into your resources 
+add the PoliceMaserati folder into your resources
 
-Add this to your server.cfg:
+Add this to your server.cfg
+
 start esx_policejob
 start PoliceExterior
 start PoliceFordShelby
